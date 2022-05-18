@@ -1,0 +1,6 @@
+com\paavocode\fraud\FraudController.class
+com\paavocode\fraud\FraudApplication.class
+com\paavocode\fraud\FraudCheckHistory$FraudCheckHistoryBuilder.class
+com\paavocode\fraud\FraudCheckHistoryRepository.class
+com\paavocode\fraud\FraudCheckHistory.class
+com\paavocode\fraud\FraudCheckService.class

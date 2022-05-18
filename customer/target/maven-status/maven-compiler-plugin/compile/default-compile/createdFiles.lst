@@ -1,0 +1,8 @@
+com\paavocode\customer\CustomerRepository.class
+com\paavocode\customer\CustomerConfig.class
+com\paavocode\customer\CustomerApplication.class
+com\paavocode\customer\CustomerRegistrationRequest.class
+com\paavocode\customer\CustomerService.class
+com\paavocode\customer\Customer$CustomerBuilder.class
+com\paavocode\customer\Customer.class
+com\paavocode\customer\CustomerController.class

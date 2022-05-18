@@ -1,0 +1,4 @@
+com\paavocode\clients\fraud\FraudClient.class
+com\paavocode\clients\fraud\FraudCheckResponse.class
+com\paavocode\clients\notification\NotificationRequest.class
+com\paavocode\clients\notification\NotificationClient.class

@@ -1,0 +1,8 @@
+com\paavocode\notification\Notification$NotificationBuilder.class
+com\paavocode\notification\NotificationConfig.class
+com\paavocode\notification\NotificationConsumer.class
+com\paavocode\notification\NotificationRepository.class
+com\paavocode\notification\NotificationApplication.class
+com\paavocode\notification\Notification.class
+com\paavocode\notification\NotificationService.class
+com\paavocode\notification\NotificationController.class
